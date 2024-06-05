@@ -28,5 +28,10 @@
     "name": "TV 8",
     "url": "https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/tv8.png"
+  },
+  {
+    "name": "beIn Sports 1",
+    "url": "https://oha.to/play/2113462398/index.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/tv8.png"
   }
 ]
