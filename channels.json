@@ -5,6 +5,11 @@
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/atv.png"
   },
   {
+    "name": "ATV Yedek",
+    "url": "https://trkvz.daioncdn.net/atv/atv.m3u8?ce=3&app=d1ce2d40-5256-4550-b02e-e73c185a314e&st=3X0Sn2ox0vHcvRH873ZWVQ&e=1717661622&gdpr=0",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/atv.png"
+  },
+  {
     "name": "NOW",
     "url": "https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/now.png"
