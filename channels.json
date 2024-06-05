@@ -30,8 +30,18 @@
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/tv8.png"
   },
   {
+    "name": "S Sport",
+    "url": "https://oha.to/play/2123273598/index.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/ssport.png"
+  },
+  {
+    "name": "S Sport 2",
+    "url": "https://oha.to/play/936908274/index.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/ssport2.png"
+  },
+  {
     "name": "beIn Sports 1",
     "url": "https://oha.to/play/2113462398/index.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/tv8.png"
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/bein1.png"
   }
 ]
