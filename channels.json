@@ -36,6 +36,42 @@
     "category": "Ulusal"
   },
   {
+    "name": "ATV",
+    "url": "http://hw1.jemtv.com/app/ATVHD/chunks.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/atv.png",
+    "category": "Ulusal 1"
+  },
+  {
+    "name": "NOW",
+    "url": "http://hw1.jemtv.com/app/FoxTurkey/chunks.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/now1.png",
+    "category": "Ulusal 1"
+  },
+  {
+    "name": "SHOW TV",
+    "url": "https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/showtv.png",
+    "category": "Ulusal 1"
+  },
+  {
+    "name": "KANAL D",
+    "url": "https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/kanald.png",
+    "category": "Ulusal 1"
+  },
+  {
+    "name": "STAR TV",
+    "url": "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/startv.png",
+    "category": "Ulusal 1"
+  },
+  {
+    "name": "TV 8",
+    "url": "https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/tv8.png",
+    "category": "Ulusal 1"
+  },
+  {
     "name": "S Sport",
     "url": "https://oha.to/play/2123273598/index.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/ssport.png",
