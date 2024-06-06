@@ -37,13 +37,13 @@
   },
   {
     "name": "ATV",
-    "url": "http://hw1.jemtv.com/app/ATVHD/playlist.m3u8",
+    "url": "http://stream.tvcdn.net/ulusal/atv.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/atv.png",
     "category": "Ulusal 1"
   },
   {
     "name": "NOW",
-    "url": "http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8",
+    "url": "http://stream.tvcdn.net/ulusal/now-tv.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/now1.png",
     "category": "Ulusal 1"
   },
