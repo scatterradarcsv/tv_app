@@ -73,25 +73,25 @@
   },
   {
   "name": "TRT 1",
-  "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web&platform=trtspor",
+  "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=clean",
   "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trt1.png",
   "category": "TRT"
   },
   {
     "name": "TRT 1",
-    "url": "https://tv-trt1-dai.medya.trt.com.tr/master.m3u8",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trt1.png",
     "category": "TRT"
   },
   {
     "name": "TRT Spor",
-    "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor",
+    "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=clean",
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trtspor.png",
     "category": "TRT"
   },
   {
     "name": "TRT Spor",
-    "url": "https://trtspor.blutv.com/blutv_trtspor/live.m3u8",
+    "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trtspor.png",
     "category": "TRT"
   },
@@ -103,7 +103,7 @@
   },
   {
     "name": "TRT Spor Yıldız",
-    "url": "https://trtsporyildiz.blutv.com/blutv_trtsporyildiz/live.m3u8",
+    "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trtsporyildiz.png",
     "category": "TRT"
   },
