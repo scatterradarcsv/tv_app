@@ -72,6 +72,66 @@
     "category": "Ulusal 1"
   },
   {
+  "name": "TRT 1",
+  "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=clean",
+  "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trt1.png",
+  "category": "TRT"
+  },
+  {
+    "name": "TRT 1",
+    "url": "https://tv-trt1.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trt1.png",
+    "category": "TRT"
+  },
+  {
+    "name": "TRT Spor",
+    "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=clean",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trtspor.png",
+    "category": "TRT"
+  },
+  {
+    "name": "TRT Spor",
+    "url": "https://tv-trtspor1.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trtspor.png",
+    "category": "TRT"
+  },
+  {
+    "name": "TRT Spor Yıldız",
+    "url": "https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=clean",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trtsporyildiz.png",
+    "category": "TRT"
+  },
+  {
+    "name": "TRT Spor Yıldız",
+    "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trtsporyildiz.png",
+    "category": "TRT"
+  },
+  {
+    "name": "TRT Haber",
+    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trthaber.png",
+    "category": "TRT"
+  },
+  {
+    "name": "TRT Müzik",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trtmuzik.png",
+    "category": "TRT"
+  },
+  {
+    "name": "TRT Belgesel",
+    "url": "https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trtbelgesel.png",
+    "category": "TRT"
+  },
+  {
+    "name": "Tabii TV",
+    "url": "https://tv-trtobslive.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/tabiitv.png",
+    "category": "TRT"
+  },
+  {
     "name": "S Sport",
     "url": "https://live.anystreamrectv3.live/live/ssport.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/ssport.png",
