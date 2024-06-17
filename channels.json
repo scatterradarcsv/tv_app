@@ -85,7 +85,7 @@
   },
   {
     "name": "TRT Spor",
-    "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=clean",
+    "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=web&platform=trtspor",
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trtspor.png",
     "category": "TRT"
   },
