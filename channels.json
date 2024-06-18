@@ -1,4 +1,5 @@
-[
+{
+  "channels": [
   {
     "name": "ATV",
     "url": "https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8",
@@ -252,3 +253,4 @@
     "category": "Spor"
   }
 ]
+}
