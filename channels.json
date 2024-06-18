@@ -36,6 +36,12 @@
     "category": "Ulusal"
   },
   {
+    "name": "Beyaz TV",
+    "url": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=web",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/beyaztv.png",
+    "category": "Ulusal"
+  },
+  {
     "name": "ATV",
     "url": "http://stream.tvcdn.net/ulusal/atv.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/atv.png",
