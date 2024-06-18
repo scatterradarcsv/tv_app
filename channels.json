@@ -78,6 +78,36 @@
     "category": "Ulusal 1"
   },
   {
+    "name": "CNN Türk",
+    "url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/cnnturk.png",
+    "category": "Haber"
+  },
+  {
+    "name": "NTV",
+    "url": "https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/ntv.png",
+    "category": "Haber"
+  },
+  {
+    "name": "Habertürk",
+    "url": "https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/haberturk.png",
+    "category": "Haber"
+  },
+  {
+    "name": "Bloomberg HT",
+    "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/bloomberght.png",
+    "category": "Haber"
+  },
+  {
+    "name": "Halk TV",
+    "url": "https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/halktv.png",
+    "category": "Haber"
+  },
+  {
   "name": "TRT 1",
   "url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=clean",
   "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/trt1.png",
@@ -145,8 +175,32 @@
   },
   {
     "name": "S Sport 2",
-    "url": "https://uno.1da87064b1b25605.shop/i/3kfVzyW5bz7dGc2cR15Wc/3451/playlist.m3u8",
+    "url": "https://live.anystreamrectv3.live/live/ssport2.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/ssport2.png",
+    "category": "Spor"
+  },
+  {
+    "name": "Tivibu Spor 1",
+    "url": "https://live.anystreamrectv3.live/live/tivi1.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/tivibu1.png",
+    "category": "Spor"
+  },
+  {
+    "name": "Tivibu Spor 2",
+    "url": "https://live.anystreamrectv3.live/live/tivi2.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/tivibu2.png",
+    "category": "Spor"
+  },
+  {
+    "name": "Tivibu Spor 3",
+    "url": "https://live.anystreamrectv3.live/live/tivi3.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/tivibu3.png",
+    "category": "Spor"
+  },
+  {
+    "name": "Tivibu Spor 4",
+    "url": "https://live.anystreamrectv3.live/live/tivi4.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/scatterradarcsv/tv_app/main/kanal_logolari/tivibu4.png",
     "category": "Spor"
   },
   {
